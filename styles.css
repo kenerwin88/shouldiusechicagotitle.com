@@ -9,3 +9,5 @@
 .review-byline{font-size:12px;color:var(--muted);margin:-12px 0 20px;line-height:1.6}.quick-answers h3{font-size:20px;line-height:1.4;margin:30px 0 12px}.quick-answers p{font-size:16px}.quick-answers a{text-decoration-color:#a87800}@media(max-width:640px){.review-byline{font-size:11px}.quick-answers h3{font-size:19px}.quick-answers p{font-size:16px}}
 
 .ad-commentary{margin:36px auto 0}.ad-commentary img{display:block;width:100%;height:auto}.ad-commentary figcaption{font-size:11px;line-height:1.7;color:var(--muted);padding-top:10px;max-width:900px}@media(max-width:640px){.ad-commentary{margin-top:25px}.ad-commentary figcaption{font-size:10px}}
+
+.contact-invitation{background:#fff8df;border-top:5px solid var(--gold)!important;padding:27px!important}.contact-invitation h2{font-size:32px}.contact-email{font-size:18px;font-weight:bold;overflow-wrap:anywhere;text-decoration-color:#a87800}.contact-invitation .small-text{margin-bottom:0}@media(max-width:640px){.contact-invitation{padding:20px!important}.contact-invitation h2{font-size:27px}.contact-email{font-size:16px}}
