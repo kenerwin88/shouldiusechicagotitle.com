@@ -1,1 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 210" role="img" aria-labelledby="title"><title id="title">Illustration of a property boundary, three removed boards, and a title document; not an actual survey</title><defs><pattern id="hatch" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><path d="M0 0V9" stroke="#f9bd1e" stroke-width="3"/></pattern></defs><rect width="680" height="210" fill="#f7f7f3"/><g stroke="#161616" stroke-width="2" fill="none"><path d="M30 173L340 40L470 116L160 193Z"/><path d="M30 173L30 65L340 18L340 40" stroke="#cacac2"/><path d="M340 40L540 23L649 95L470 116" stroke="#cacac2"/></g><path d="M72 155L305 56L388 105L155 184Z" fill="url(#hatch)"/><path d="M350 34L470 116L478 184" stroke="#d32e12" stroke-width="3" stroke-dasharray="7 7" fill="none"/><g fill="#f9bd1e" stroke="#161616" stroke-width="2"><path d="M160 75L235 44L239 55L164 86Z"/><path d="M180 92L255 61L259 72L184 103Z"/><path d="M200 109L275 78L279 89L204 120Z"/></g><g transform="translate(513 39)"><path d="M0 0H81L107 27V134H0Z" fill="white" stroke="#161616" stroke-width="2"/><path d="M81 0V27H107M17 41H77M17 54H88M17 67H62" stroke="#161616" stroke-width="2" fill="none"/><circle cx="38" cy="103" r="17" fill="#f9bd1e"/><path d="M29 121L26 139L38 132L48 139L45 121" fill="#f9bd1e"/></g><text x="34" y="38" font-family="Arial,sans-serif" font-size="10" letter-spacing="1.4" fill="#656560">THREE BOARDS · ONE BOUNDARY DISPUTE</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 260" role="img" aria-labelledby="title desc">
+<title id="title">Three wooden boards clearly inside my property</title>
+<desc id="desc">A schematic overhead view. All three boards sit well inside the left-hand parcel labeled My property, separated from the red boundary line and the neighboring parcel by a wide gap. This is an illustration, not a survey.</desc>
+<defs><pattern id="hatch" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><path d="M0 0V12" stroke="#f9bd1e" stroke-width="2" opacity=".25"/></pattern></defs>
+<rect width="680" height="260" fill="#f7f7f3"/>
+<text x="25" y="29" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#161616">THE THREE BOARDS WERE ON MY LAND</text>
+<rect x="25" y="54" width="399" height="174" fill="#fff5d1" stroke="#161616" stroke-width="2"/>
+<rect x="25" y="54" width="399" height="174" fill="url(#hatch)"/>
+<rect x="424" y="54" width="231" height="174" fill="#ecece5" stroke="#161616" stroke-width="2"/>
+<text x="44" y="83" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#161616">MY PROPERTY</text>
+<text x="445" y="83" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#656560">NEIGHBOR’S PROPERTY</text>
+<g fill="#f9bd1e" stroke="#161616" stroke-width="2">
+<rect x="152" y="114" width="140" height="14"/>
+<rect x="152" y="143" width="140" height="14"/>
+<rect x="152" y="172" width="140" height="14"/>
+</g>
+<g stroke="#8b6720" stroke-width="1" fill="none"><path d="M162 121H282M162 150H282M162 179H282"/></g>
+<text x="222" y="210" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#161616">ALL THREE BOARDS</text>
+<path d="M424 50V232" stroke="#d32e12" stroke-width="4"/>
+<text x="424" y="249" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#b32610">PROPERTY BOUNDARY</text>
+</svg>
